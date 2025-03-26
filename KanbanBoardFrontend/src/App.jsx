@@ -7,6 +7,7 @@ function App() {
   return (
     <>
       <Navbar/>
+      <h1>This is only for Testing</h1>
       <AllRoutes/>
     </>
   )
