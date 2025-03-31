@@ -7,7 +7,7 @@ function App() {
   return (
     <>
       <Navbar/>
-      <h1>This is only for Testing</h1>
+      <h1>This is in testing phase</h1>
       <AllRoutes/>
     </>
   )
